@@ -5,7 +5,7 @@
 The **Calendar** table contains a continuous list of all dates, ranging from the earliest to the latest order date found in the `salesdata_ecommercesite` dataset.
 ![alt image](https://github.com/workwithtuongvy/E-Commerce-Sales-Dashboard/blob/a7097d06d0d15f3ab9119d9261302dc43e274071/calendar.png)
 After creating the Calendar table, relationships were established between the fact and dimension tables to support accurate time intelligence analysis.
-![alt image]([https://github.com/workwithtuongvy/E-Commerce-Sales-Dashboard/blob/a7097d06d0d15f3ab9119d9261302dc43e274071/calendar.png](https://github.com/workwithtuongvy/E-Commerce-Sales-Dashboard/blob/24781541acc17d8622cb0925e354230140e5d97d/relationship.png))
+![alt image](https://github.com/workwithtuongvy/E-Commerce-Sales-Dashboard/blob/2324d5e048305d25076fa0147ad90c4910802672/relationship.png)
 
 ---
 
