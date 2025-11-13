@@ -3,7 +3,7 @@
 ## 📅 Calendar Table
 
 The **Calendar** table contains a continuous list of all dates, ranging from the earliest to the latest order date found in the `salesdata_ecommercesite` dataset.
-
+![alt image](https://github.com/workwithtuongvy/E-Commerce-Sales-Dashboard/blob/a7097d06d0d15f3ab9119d9261302dc43e274071/calendar.png)
 After creating the Calendar table, relationships were established between the fact and dimension tables to support accurate time intelligence analysis.
 
 ---
